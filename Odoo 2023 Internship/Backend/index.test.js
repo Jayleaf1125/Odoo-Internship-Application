@@ -44,9 +44,3 @@ test("Given a string in PascalCase, return a string where words are all lower ca
     `red.blue.yellow.green`
   );
 });
-// Question 5
-// test("Write a regular expression to match strings that are surrounded by either matched single or double quotes and include any the following strings(Case Insensitive): ['hello', 'hey', 'hi']", () => {
-//     expect(surroundedInQuotes("hello")).toBe(true);
-//     expect(surroundedInQuotes('hey')).toBe(true);
-//     expect(surroundedInQuotes("hello")).toBe(true);
-// })
