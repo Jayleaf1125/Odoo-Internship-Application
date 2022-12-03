@@ -68,6 +68,8 @@ function draggingBoxesInBewteen(column, y) {
   ).element;
 }
 
+// Question 9
+
 const appCategoryMap = new Map();
 
 fetch("../All Apps _ Odoo.html")
